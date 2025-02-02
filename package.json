@@ -9,5 +9,8 @@
   "dependencies": {
     "inquirer": "^8.2.4",
     "pg": "^8.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }

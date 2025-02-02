@@ -71,7 +71,7 @@ So that I can **organize and plan my business effectively**.
 #### `department`
 | Column   | Data Type        | Constraints               |
 |----------|------------------|---------------------------|
-| `id`     | SERIAL PRIMARY KEY |                          |
+| `id`     | SERIAL PRIMARY KEY |                         |
 | `name`   | VARCHAR(30)      | UNIQUE NOT NULL           |
 
 #### `role`
@@ -146,5 +146,6 @@ So that I can **organize and plan my business effectively**.
 
 This project is licensed under the MIT License.
 #### link to the scareenshot video
-https://drive.google.com/file/d/1D5EMK6Neb3jqh8gYhxIAwOQRfbwusL4s/view
+Link: https://drive.google.com/file/d/11zoLHEMkYXyhFjj7OFEYu8O7Nlh371rC/view?usp=sharing
+
 
