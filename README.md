@@ -102,29 +102,7 @@ So that I can **organize and plan my business effectively**.
 
 ---
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd employee-management
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Set up the database:
-   - Ensure PostgreSQL is installed and running.
-   - Create and populate the database using `seeds.sql`.
-
-4. Start the application:
-   ```bash
-   node index.js
-   ```
-
----
 
 ## Usage
 
@@ -142,9 +120,6 @@ So that I can **organize and plan my business effectively**.
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
 #### link to the scareenshot video
 Link: https://drive.google.com/file/d/11zoLHEMkYXyhFjj7OFEYu8O7Nlh371rC/view?usp=sharing
 
